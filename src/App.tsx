@@ -31,7 +31,7 @@ export default function App() {
               <GraduationCap size={20} className="text-white" />
             </div>
           </div>
-          <h1 className="text-lg md:text-2xl font-bold tracking-tight uppercase">دليل الطالب الذكي لنظام Moodle</h1>
+          <h1 className="text-lg md:text-2xl font-bold tracking-tight uppercase">دليل المتدرب الرقمي لنظام Moodle</h1>
         </div>
         <div className="flex items-center gap-4">
           <button 
